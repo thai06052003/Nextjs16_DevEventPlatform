@@ -2,8 +2,8 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <div>Welcom to Next.JS</div>
+    <h1>Welcom to Next.JS</h1>
   )
 }
 
-export default Page  
+export default Page
